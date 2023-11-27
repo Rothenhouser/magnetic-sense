@@ -1,0 +1,11 @@
+spyder-kernels
+numpy==1.26.*
+pandas==2.1.*
+xarray
+matplotlib==3.8.*
+seaborn==0.13.*
+plotly==5.*
+jupyter
+black==23.10.*
+isort
+flake8
