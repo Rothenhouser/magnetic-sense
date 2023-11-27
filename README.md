@@ -22,3 +22,10 @@ Aktivierung in Spyder:
 
 - Preferences > Python Interpreter > Pfad von oben angeben
 - Terminal neu starten
+
+
+Notebooks:
+
+```cmd
+jupyter notebook
+```

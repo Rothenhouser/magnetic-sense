@@ -6,6 +6,7 @@ dependencies:
   - spyder-kernels
   - numpy=1.26.*
   - pandas=2.1.*
+  - openpyxl
   - xarray
   - matplotlib=3.8.*
   - seaborn=0.13.*
