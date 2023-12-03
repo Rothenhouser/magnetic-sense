@@ -11,6 +11,7 @@ dependencies:
   - matplotlib=3.8.*
   - seaborn=0.13.*
   - plotly=5.*
+  - streamlit
   - jupyter
   - black=23.10.*
   - isort
